@@ -1,0 +1,428 @@
+[
+  {
+    "id": "ETRCAP1",
+    "name": "Cap Bretagne 1",
+    "coordinates": "48.06808000000000000, -1.19237000000000000",
+    "lines": "ETV"
+  },
+  {
+    "id": "ETRCAP2",
+    "name": "Cap Bretagne 2",
+    "coordinates": "48.06916000000000000, -1.19602000000000000",
+    "lines": "ETV"
+  },
+  {
+    "id": "ETRHYD2",
+    "name": "Hydris",
+    "coordinates": "48.07398200000000000, -1.20011100000000000",
+    "lines": "ETV"
+  },
+  {
+    "id": "MSPGERA1",
+    "name": "Montreuil-sous-Pérouse/ Gérard",
+    "coordinates": "48.14172000000000000, -1.24830000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "MSPRIBE1",
+    "name": "Montreuil-sous-Pérouse/ Rue Ribert",
+    "coordinates": "48.15028000000000000, -1.23910000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "POCEGL1",
+    "name": "Pocé-les-Bois/ Eglise",
+    "coordinates": "48.11530000000000000, 1.24936000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "POCGAN1",
+    "name": "Pocé-les-Bois/ ZA Gandonniere",
+    "coordinates": "48.12297000000000000, 1.26124000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "POCPMOR1",
+    "name": "Pocé-les-Bois/ Petit Morin",
+    "coordinates": "48.11662000000000000, -1.25329900000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITAUR2",
+    "name": "Aurore",
+    "coordinates": "48.12384000000000000, -1.20093000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITBARA1",
+    "name": "Baratière",
+    "coordinates": "48.10919500000000000, -1.21441500000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITBECE1",
+    "name": "Beauvais-Centre",
+    "coordinates": "48.11433000000000000, -1.22009000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITBEJA1",
+    "name": "Beauvais Jaunais",
+    "coordinates": "48.11314700000000000, -1.22246900000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITBELL1",
+    "name": "Bellevue",
+    "coordinates": "48.13047000000000000, -1.21874000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITBGAS2",
+    "name": "Basse-Gasniais",
+    "coordinates": "48.12223000000000000, -1.18797000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITBOTR2",
+    "name": "Botrel",
+    "coordinates": "48.11556000000000000, -1.19781000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITCEAU1",
+    "name": "Château d'Eau",
+    "coordinates": "48.11176600000000000, -1.21312000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITCEZA1",
+    "name": "Cézanne",
+    "coordinates": "48.10770000000000000, -1.20128000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITCHAL1",
+    "name": "Chalet",
+    "coordinates": "48.13323000000000000, -1.22067000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITCHAM1",
+    "name": "Champagne",
+    "coordinates": "48.12189600000000000, -1.22692100000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITCIM1",
+    "name": "Cimetière St-Gilles",
+    "coordinates": "48.12683000000000000, -1.19461000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITCURI1",
+    "name": "Pierre et Marie Curie",
+    "coordinates": "48.11481000000000000, -1.19124900000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITDEBU2",
+    "name": "Debussy",
+    "coordinates": "48.11577700000000000, -1.19576300000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITDJEN1",
+    "name": "Djenne",
+    "coordinates": "48.10743800000000000, -1.19795600000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITDOJO2",
+    "name": "Dojo",
+    "coordinates": "48.11961600000000000, 1.20287400000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITDOUV1",
+    "name": "Douves",
+    "coordinates": "48.13423600000000000, -1.21421100000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITETIE1",
+    "name": "Saint-Etienne",
+    "coordinates": "48.10960000000000000, -1.19878000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITETOI1",
+    "name": "Etoile",
+    "coordinates": "48.11603400000000000, -1.21677200000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITFLEU1",
+    "name": "Fleuriais",
+    "coordinates": "48.11081800000000000, -1.20493800000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITFOIR2",
+    "name": "Champ de Foire",
+    "coordinates": "48.11934600000000000, -1.20536300000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITFOUG2",
+    "name": "Fougères",
+    "coordinates": "48.12704000000000000, -1.21452000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITGA1",
+    "name": "Gare",
+    "coordinates": "48.12271000000000000, -1.21168000000000000",
+    "lines": "ETV"
+  },
+  {
+    "id": "VITGAMA2",
+    "name": "Gare/ Saint-Martin",
+    "coordinates": "48.12327400000000000, -1.20950600000000000",
+    "lines": "A_B_C"
+  },
+  {
+    "id": "VITGHAY1",
+    "name": "La Grande Haye",
+    "coordinates": "48.12039300000000000, -1.17402900000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITGIRO2",
+    "name": "Louis Giroux",
+    "coordinates": "48.11710700000000000, -1.21217600000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITGUE2",
+    "name": "La Guerche",
+    "coordinates": "48.11095000000000000, -1.20871000000000000",
+    "lines": "ETV"
+  },
+  {
+    "id": "VITGUER2",
+    "name": "C Guérin-A Chesnier",
+    "coordinates": "48.11673900000000000, -1.19945300000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITGUIL1",
+    "name": "Guilmarais",
+    "coordinates": "48.10529000000000000, -1.19551000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITHALL2",
+    "name": "Halle du Parc",
+    "coordinates": "48.11632600000000000, -1.20478100000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITHCHA1",
+    "name": "Haut Chalet",
+    "coordinates": "48.13181000000000000, -1.22468000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITHOP1",
+    "name": "Hôpital",
+    "coordinates": "48.12273000000000000, -1.22727000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITHUGO2",
+    "name": "Hugo",
+    "coordinates": "48.11897600000000000, -1.19904000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITKPAR2",
+    "name": "Kiosque du Parc",
+    "coordinates": "48.11743000000000000, -1.21022000000000000",
+    "lines": "C_ETV"
+  },
+  {
+    "id": "VITLACT2",
+    "name": "Lactalis",
+    "coordinates": "48.10808800000000000, -1.17308100000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITLAN1",
+    "name": "Les Landes",
+    "coordinates": "48.11171000000000000, -1.18824000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITLAND2",
+    "name": "Landais",
+    "coordinates": "48.12098600000000000, -1.20568200000000000",
+    "lines": "A_B"
+  },
+  {
+    "id": "VITLCHA1",
+    "name": "Lycée La Champagne",
+    "coordinates": "48.12124900000000000, -1.23006800000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITLYMI1",
+    "name": "Lymington",
+    "coordinates": "48.10699200000000000, 1.20616500000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITMART2",
+    "name": "Saint-Martin",
+    "coordinates": "48.12306400000000000, -1.20633000000000000",
+    "lines": "A_B_C"
+  },
+  {
+    "id": "VITMASS2",
+    "name": "Massonais",
+    "coordinates": "48.12253000000000000, -1.23063000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITMEE2",
+    "name": "Le Mee",
+    "coordinates": "48.11306200000000000, -1.20285100000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITMELI2",
+    "name": "Mélinais",
+    "coordinates": "48.13004900000000000, 1.21434100000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITMOTT2",
+    "name": "La Motte",
+    "coordinates": "48.11676700000000000, -1.19417000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITMROU1",
+    "name": "Maison Rouge",
+    "coordinates": "48.11373700000000000, -1.21460200000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITPAST1",
+    "name": "Pasteur",
+    "coordinates": "48.12562000000000000, -1.21600000000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITPERR1",
+    "name": "Les Perrines",
+    "coordinates": "48.11519900000000000, -1.18839800000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITPILT2",
+    "name": "Piltière",
+    "coordinates": "48.11211300000000000, -1.18271200000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITPOUL2",
+    "name": "Poultière",
+    "coordinates": "48.12316100000000000, -1.19533100000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITPYVE2",
+    "name": "Gare/ Saint-Yves",
+    "coordinates": "48.12305400000000000, -1.21337500000000000",
+    "lines": "A_B"
+  },
+  {
+    "id": "VITRCOM1",
+    "name": "Route de Combourg",
+    "coordinates": "48.13099800000000000, -1.22129100000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITRDUM1",
+    "name": "René Dumont",
+    "coordinates": "48.11186700000000000, -1.18541200000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITREAU2",
+    "name": "Route des Eaux",
+    "coordinates": "48.11806900000000000, -1.19123000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITRONC1",
+    "name": "LA Roncinière",
+    "coordinates": "48.12061800000000000, -1.18014800000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITRPER1",
+    "name": "Rond point D'Erbrée",
+    "coordinates": "48.11962100000000000, -1.16584200000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITRPLA2",
+    "name": "Réservoir Plague",
+    "coordinates": "48.11725800000000000, -1.18953600000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITSERR1",
+    "name": "Les Serres",
+    "coordinates": "48.10494400000000000, -1.19493500000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITSEV1",
+    "name": "Collège Les Rochers Sévigné",
+    "coordinates": "48.11271200000000000, -1.19798200000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITTERT2",
+    "name": "Tertres Noirs",
+    "coordinates": "48.12275400000000000, -1.22258000000000000",
+    "lines": "B"
+  },
+  {
+    "id": "VITTREM2",
+    "name": "Trémoille",
+    "coordinates": "48.12023000000000000, -1.21001000000000000",
+    "lines": "C"
+  },
+  {
+    "id": "VITVILL2",
+    "name": "Villaudin",
+    "coordinates": "48.12953200000000000, -1.21400500000000000",
+    "lines": "A"
+  },
+  {
+    "id": "VITYVES2",
+    "name": "Saint-Yves",
+    "coordinates": "48.12354600000000000, -1.21563700000000000",
+    "lines": "A_B"
+  },
+  {
+    "id": "VITZACR1",
+    "name": "ZAC Roncinière",
+    "coordinates": "48.11862400000000000, -1.18311100000000000",
+    "lines": "C"
+  }
+]
